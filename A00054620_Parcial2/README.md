@@ -78,4 +78,13 @@ Para demostrar que este proceso consume_cpu.sh si es capaz de utilizar el 100% d
 https://github.com/ICESI/so-containers
 
 
-[1]: images/
+[1]: images/foto0.PNG
+[2]: images/Foto1.PNG
+[3]: images/foto2.PNG
+[4]: images/foto3.PNG
+[5]: images/foto4.PNG
+[6]: images/foto5.PNG
+[7]: images/foto6.PNG
+[8]: images/foto7.PNG
+[9]: images/foto8.PNG
+[10]: images/foto9.PNG
