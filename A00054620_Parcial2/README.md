@@ -57,8 +57,9 @@ CPUQuote=50%
 Al ser requerido por la actividad dos procesos, se deben entonces crear dos servicios diferentes por lo que para realizar la actividad se han creado los servicios **consume_cpu.service** y **consume_cpu2.service** . Todo de la siguiente forma:  
         ![][4]  
         ![][5]  
-Ya toda esta listo para comprobar el funcionamiento de dos procesos reestringidos al 50% de uso de CPU mediante el comando CPUQuote de systemd. Pero primero se debe comprobar el estado de uso de la CPU sin que ningún servicio sea iniciado:
-        ![][6]
+  
+Ya toda esta listo para comprobar el funcionamiento de dos procesos reestringidos al 50% de uso de CPU mediante el comando CPUQuote de systemd. Pero primero se debe comprobar el estado de uso de la CPU sin que ningún servicio sea iniciado:  
+        ![][6]  
  Al haber realizado cambios en la configuración de los servicios, antes de inicializar los procesos se debe recargar el sistema para lo que se utiliza el comando  
   
 ```
